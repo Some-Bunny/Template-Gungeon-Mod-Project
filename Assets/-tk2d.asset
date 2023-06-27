@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cb500cf0f58e74f9a52a8af931edde, type: 3}
+  m_Name: -tk2d
+  m_EditorClassIdentifier: 
+  version: 4
+  spriteAnimationIndex:
+  - assetGUID: 18a39674a9b14f54b97497254e83b349
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 68cc4da10d501f9439d1507a1a2c46c1
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: eba2002e1b52e457f811082cb3edaa4d
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 728ba69d884ddec448dabd6d3415e368
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  fontIndex:
+  - assetGUID: 063b15d80dbb4604d890600a64c79cf8
+    dataGUID: e7a6b09a73c6b2b4f8060096ddbd3b5e
+    managed: 0
+    loadable: 0
+  - assetGUID: 5b9fac241be038041b70ac7e84cd6151
+    dataGUID: 3082bbcb45b417041963b6b8562266c1
+    managed: 0
+    loadable: 0
+  - assetGUID: db60ffa92fa16ea478fc7ad4f595a0e6
+    dataGUID: 44e006873ca04f741b2ac3ba5dec92ad
+    managed: 0
+    loadable: 0
+  - assetGUID: 696edcc0ae48b72449b2be1a439a7afb
+    dataGUID: fb1b97eccf6db514999d1605baf017e5
+    managed: 0
+    loadable: 0
+  - assetGUID: d54d053b1eb9f435ba39d0a7275f7576
+    dataGUID: 00d50654c71944d04960d88e3c352cc1
+    managed: 0
+    loadable: 0
+  - assetGUID: 622b62f4ce4054167ba7243119b7143c
+    dataGUID: dc5e8cfc5fff846d7a573bb8f5960093
+    managed: 0
+    loadable: 0
+  - assetGUID: f6e659f74eb1b461b9ba3f6418086bbb
+    dataGUID: cb3bf0ad5e92744d6856da9a7d5a3125
+    managed: 0
+    loadable: 0
+  spriteCollectionIndex:
+  - name: ExampleCollection
+    spriteCollectionGUID: f42592cbda9a5214e8171b0fd4aa40df
+    spriteCollectionDataGUID: 4e03d23054042d347b9eb7acd022b772
+    spriteNames:
+    - example_sprite_002
+    - example_sprite_003
+    - example_sprite_001
+    - example_sprite_006
+    - example_sprite_004
+    - example_sprite_005
+    spriteTextureGUIDs:
+    - 651bc93da5533494a89d7feb2b21629e
+    - 782a8d9037ec2114e8e3b1ee060d47b5
+    - 6c2233f436a3e58459ea71ea2e6b6542
+    - 486258f90dfeaf8449b4a181c2294879
+    - d2fa136cb2bbdfe47b8a1fcc32386f62
+    - c54fdab2a2d20804ba29a33f7359786f
+    spriteTextureTimeStamps:
+    - 1687906719.69372
+    - 1687906719.69672
+    - 1687906719.69172
+    - 1687906719.70273
+    - 1687906719.69772
+    - 1687906719.70073
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3

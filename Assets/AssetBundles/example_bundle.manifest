@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2607166223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9ddee5f3a1e1198cc737d41d596ed0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb82305d0fcc03f3514041baed70bbd7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecaffc43a5d2b1d47858e3fb687e7271, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b03b1445062e71c4ca60f92cbd330aff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f514313262e3d141ad017b60809752a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TK2D Example/ExampleCollection Data/ExampleCollection.prefab
+- Assets/Example Shader/BasicShader.shader
+- Assets/Example DFAtlas/ExampleAtlas.mat
+- Assets/TK2D Example/ExampleCollection Data/example material.mat
+- Assets/TK2D Example/ExampleAnimation.prefab
+- Assets/Example DFAtlas/ExampleAtlas.prefab
+Dependencies: []
