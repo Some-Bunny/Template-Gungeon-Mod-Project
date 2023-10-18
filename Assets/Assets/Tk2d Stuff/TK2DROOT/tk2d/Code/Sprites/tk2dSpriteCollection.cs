@@ -158,7 +158,7 @@ public class tk2dSpriteCollectionDefinition
 	
 	public int materialId = 0;
 	
-	public Anchor anchor = Anchor.MiddleCenter;
+	public Anchor anchor = Anchor.LowerLeft;
 	public float anchorX, anchorY;
     public Object overrideMesh;
 
@@ -177,7 +177,7 @@ public class tk2dSpriteCollectionDefinition
 
 	public float weight = 1;
 
-	public Pad pad = Pad.Default;
+	public Pad pad = Pad.BlackZeroAlpha;
 	public int extraPadding = 0; // default
 	
 	public Source source = Source.Sprite;

@@ -69,6 +69,8 @@ MonoBehaviour:
     - example_sprite_006
     - example_sprite_004
     - example_sprite_005
+    - smiley
+    - smiley2
     spriteTextureGUIDs:
     - 651bc93da5533494a89d7feb2b21629e
     - 782a8d9037ec2114e8e3b1ee060d47b5
@@ -76,6 +78,8 @@ MonoBehaviour:
     - 486258f90dfeaf8449b4a181c2294879
     - d2fa136cb2bbdfe47b8a1fcc32386f62
     - c54fdab2a2d20804ba29a33f7359786f
+    - 612c2bd60887bb246ae80cffc77a247a
+    - e33ae6a537916b74bb782659a4f9d72b
     spriteTextureTimeStamps:
     - 1687906719.69372
     - 1687906719.69672
@@ -83,6 +87,8 @@ MonoBehaviour:
     - 1687906719.70273
     - 1687906719.69772
     - 1687906719.70073
+    - 1689735128.43443
+    - 1697627621.79995
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
